@@ -1,0 +1,59 @@
+body {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(235, 234, 232);
+
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 60px;
+    color: #000000;
+    
+}
+#image {
+    filter: grayscale(100%);
+    height: auto;
+    
+  }
+
+h2{
+    font-family:Helvetica;
+    font-size: medium;
+}
+
+
+  .responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    
+
+  }
+
+#tribute-info{
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: normal;
+    line-height: 1.5em;
+		border: 1px solid black;
+		border-radius: 0.5em;
+		margin: 3em;
+		padding: 2em;
+}
+
+#tribute-link{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color:#008080    ;
+    font-weight: bold;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
